@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋 , I’m Amal a passionate software developer 👨‍💻</h1>
 <img align="right" alt="Coding" width="400" src="https://thedigitaladd.in/wp-content/uploads/2018/09/web-development.gif">
 
-🔭 I’m currently working on a ReadMe Generator 
-
 🌱 I’m currently learning new things that would helps me develop essential skills.
 
 👯 I’m looking to collaborate with anyone interested in bringing both the technical and visual aspects of digital products to life.
@@ -16,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/a-i-idi-b86abb210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a.i idi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amal-idiris-b86abb210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a.i idi" height="30" width="40" /></a>
 <a href="https://github.com/Amalidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="a.i idi" height="30" width="40" /></a>
 </p>
 
