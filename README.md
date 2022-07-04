@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate with anyone interested in bringing both the technical and visual aspects of digital products to life.
 
-👨‍💻 All of my projects are available at My Portfolio
+👨‍💻 All of my projects are available at My [Portfolio](https://amalidi.github.io/Portfolio/)
 
 📫 How to reach me idr.a1813@gmail.com
 
