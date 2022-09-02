@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]()
 <h1 align="center">Hi 👋 , I’m Amal a passionate software developer 👨‍💻</h1>
-<img align="right" alt="Coding" width="455" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
 
 🌱 I’m currently working on various cool projects related to React, 
 MongoDB and MERN stack. 
